@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link href = "CardStyle.css" rel="stylesheet" type= "text/css">
+</head>
+<body>
+	<div class="cardoutline">
+
+		<h3>Jellyfish</h3>
+
+		<img class= "picture" src="http://images.archant.co.uk/polopoly_fs/1.4413748.1455116432!/image/image.jpg_gen/derivatives/landscape_630/image.jpg"
+		 alt = "Jellyfish">
+		<div class="fishzone">
+
+			<p>Some Jellyfish can glow in the dark!</p>
+			<ul>
+
+				<li><span>Family</span>: Subphylum Medusozoa</li>
+				<li><span>First discovered</span>: 500 Million Years Ago</li>
+				<li><span>Average Lifespan</span>: 8 months</li>
+				<li><span>Delicious?</span>: To some cultures, yes!</li>
+			</ul>
+
+			<p>They have soft bodies and long, stinging, venomous tentacles that
+			   they use to catch their prey, usually small plankton animals or small
+			   crustaceons or tiny fish. Some jellyfish hunt other jellyfish.</p>
+		</div>
+	</div>
+</body>
+</html>
