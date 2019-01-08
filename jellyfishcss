@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+div {
+    border: 1px solid #ccc;
+    padding: 0 10px
+}
+
+.cardoutline {
+    width: 320px;
+    box-shadow: 8px 8px 2px #ddd;
+}
+
+.picture {
+     width: 300px; height:200px;
+     border: 1px solid
+}
+
+.fishzone {
+    width: 300px;
+    margin: 8px 0;
+}
+
+.fishzone > p:first-child {
+    font-style: italic;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
